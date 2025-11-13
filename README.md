@@ -1,4 +1,4 @@
-# 📊 Desafio1 Ciencia de_Datos Alura Store
+# 📊 Desafio1 Ciencia de_Datos Alura Store.
 
 ## 📘 Descripción del Proyecto
 Este proyecto desarrolla un análisis integral del desempeño financiero, operativo y logístico de cuatro tiendas de una cadena comercial.  
